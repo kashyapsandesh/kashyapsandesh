@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Ghimire</h1>
-<h3 align="center">A passionate learner uplift himself in IT sector in frontend (Javascript) from Nepal</h3>
+<h3 align="center">A passionate learner </h3>
 
 
 <p align="left"> <a href="https://twitter.com/kashyap__sandy" target="blank"><img src="https://img.shields.io/twitter/follow/kashyap_sandesh?logo=twitter&style=for-the-badge" alt="kashyap_sandesh" /></a> </p>
