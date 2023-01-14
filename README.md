@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/kashyap__sandy" target="blank"><img src="https://img.shields.io/twitter/follow/kashyap_sandesh?logo=twitter&style=for-the-badge" alt="kashyap_sandesh" /></a> </p>
 
-- 🔭 I’m currently working on Mbile App Development
+- 🔭 I’m currently working on Mobile App Development
 
 - 🌱 I’m currently learning **Kotlin and Flutter**
 
